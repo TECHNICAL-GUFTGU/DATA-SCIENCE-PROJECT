@@ -1,0 +1,39 @@
+
+>Anaconda Installation --> https://www.anaconda.com/products/distribution
+>Anaconda Nevigator - single place which has packages / libraries which will be used in the program when it is required(python also available in this bundle)- UI version of the distribution.
+>Alternative of nevigator - Anaconda prompt - cmd version of nevigator > type - jupyter notebook to launch jupyter notebook
+> or search for jupyter notebook online in google to practice python program - https://jupyter.org/try-jupyter/lab/
+> Google Colab also there for online jupyter notebook - https://colab.research.google.com/drive/1R70AcwucFjiUfxr7vo3qkUDFJriWq-QR#scrollTo=qpQzvK6uErsy
+
+Why jupyter notebook is being launched ?
+its a platform and web interface which is or a page where u write your python script or module and it never executes your code but it will send your code to python compiler which is being installed at the time of anaconda prompt/nevigator and this compiler will convert the code to machine level language.
+
+> Jupyter notebook is good just to practice as a beginer but in reality we will not use this to create projects.
+> Share the assignment in .ipynb format
+> pwd  for jupyter notebook
+> E: changing drive for jupyter notebook
+> Upload your assignments with github link
+
+Download the assignment 
+answer it in the python and save it inipynb format
+upload it in your git repo
+give the link of your assignment submitted
+
+------------------------------------------------------------------
+
+Advantages of Python :
+
+System programming
+GUI support/mobile app
+web scraping
+DB connect with python possible as python has that connecting libraries to connect to db
+Game develop
+Robotics
+data mining
+image processing
+data science
+easy to learn
+
+
+is python a compiled or intrepreted language?
+
