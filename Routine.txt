@@ -1,0 +1,160 @@
+AWS DevOps + Data Science:
+--------------------------
+24th of every Month
+
+Linux 	      -- 24th June  2022		--> 13 Lectures (From Shell)
+Git 	      -- 24th July  2022  	        --> 06 Lectures
+Chef 	      -- 24th Aug   2022		--> 06 Lectures	
+Docker 	      -- 24th Sept  2022  	        --> 08 Lectures      
+Ansible       -- 24th Oct   2022		--> 05 Lectures
+Jenkins       -- 24th Nov   2022		--> 05 Lectures
+Maven         -- 24th Dec   2022		--> 02 Lectures
+Nagios        -- 24th Jan   2022		--> 02 Lectures
+Kubernates    -- 24th Feb   2023		--> 13 Lectures
+Helm          -- 24th March 2023		--> 01 Lectures
+AWS           -- 24th April 2023		--> 102 Lectures
+Azure         -- 24th May   2023 	        --> Can be discussed Later      
+Packer        -- 24th June  2023		--> Can be discussed Later
+Terraform     -- 24th July  2023		--> Can be discussed Later
+
+
+
+
+===========================================================================
+
+Study Time with Topics Weekly: 
+
+9:30-10:00  Data-Science
+10:00-10:30 Linux
+10:30-11:00 GitHub
+11:00-11:30 Data Science
+
+or  
+
+full week 1 sub:  14 hrs for a week
+full week 2 sub:  7 hrs for a week/subject
+
+
+or 
+full week 3 sub:  6 hrs for in 3 days for DS + 4 hrs in 2 days for DevOps topic1+ 4hrs in 2 days for Devops topic2
+
+Per Week Target : 7 hrs /week for DS + 3.5 hrs /week for devops topic1 + 3.5 hrs /week for devops topic2
+
+
+
+
+==================================================================================
+
+NEW ROUTINE : 24th June 2022
+
+Fri-Sat -> Data-Science 2 Lectures
+Monday-Tuesday -> DevOps 3hrs each day
+Wed-Thrusday -> Data-Science 2 Lectures
+Keep On..
+
+
+
+Docker - 438 - 3   -- 1 Week
+Ansible - 434 -3
+k8s - 1102 - 10
+
+Chef- 514 -3-3
+Git-382 - 2-2
+Helm - 175 - 2-1
+Jenkins - 295 - 2-1
+Maven - 170 - 1-1
+Nagios - 97 -1-1
+
+Azure - Not Sure
+DevOps - 30 days
+GCP - 546
+
+--
+
+
+1 hrs Ansible
+1 hrs Docker
+1 hrs GIT
+
+1 hrs Ansible
+1 hrs Docker
+1 hrs Chef
+
+1 hrs Ansible
+1 hrs Docker
+1 hrs GIT
+
+1 hrs Ansible
+1 hrs Docker
+1 hrs Chef
+
+
+
+
+
+Git 			-- 06th July - 12th July
+Chef 			-- 13th July - 19th July
+Docker      		-- 20th July - 26th July
+Ansible			-- 27th July - 02th Aug
+Jenkins			-- 03th Aug  - 09th Aug
+Maven			-- 10th Aug  - 16th Aug
+Nagios			-- 17th Aug  - 23th Aug
+Kubernates		-- 24th Aug  - 30th Aug
+Helm			-- 31th Aug  - 06th Sept
+Terraform+Packer	-- 07th Sept - 13th Sept
+
+AWS			-- 13th Sept - 12th Oct
+Linux			-- 13th Oct  - 19th Oct
+Azure   		-- 6th July  - 12th July
+
+
+
+
+
+
+12th -- > Kubernates,GIT,Chef,Ansible
+13th -- > Docker,Jenkins,GCP,AWS
+14th -- > Helm,Azure,Kubernates,Ansible
+15th -- > Terraform,Linux,Maven,Nagios
+
+12th -- > Kubernates,GIT,Chef,Ansible
+13th -- > Docker,Jenkins,GCP,AWS
+14th -- > Helm,Azure,Kubernates,Ansible
+15th -- > Terraform,Linux,Maven,Nagios
+
+
+12th -- > Kubernates,GIT,Chef,Ansible,Docker,Jenkins,GCP,AWS
+13th -- > Kubernates,Ansible,Helm,Azure,Terraform,Linux,Maven,Nagios
+
+14th -- > Kubernates,GIT,Chef,Ansible,Docker,Jenkins,GCP,AWS
+15th -- > Kubernates,Ansible,Helm,Azure,Terraform,Linux,Maven,Nagios
+
+
+
+--------------------------------------------------------------------------
+
+
+11:00-11:15(AM)
+12:15-12:30(PM)
+2:15-2:30(PM)
+4:00-4:15(PM)
+6:00-6:15(PM)
+8:30-8:45(PM)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+Data-Science :
+AWS-Devops : 29th july
+Informatica Development : 2 new topics daily
+Informatica Admin : 4 new questions daily till 29th july
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
